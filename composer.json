@@ -1,5 +1,5 @@
 {
-    "name": "yajra/laravel-oci8",
+    "name": "elsayed85/laravel-oci8",
     "description": "Oracle DB driver for Laravel 4|5|6|7 via OCI8",
     "keywords" : ["laravel","oracle","oci8","pdo_oci"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^8.0",
         "ext-oci8": ">=2.0.0",
         "ext-pdo": "*",
         "illuminate/database": "^8",
